@@ -198,3 +198,12 @@
     height: 30vh;
     align-items: center;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+.footer p {
+    text-align: center;
+}
